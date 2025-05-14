@@ -1,1 +1,1 @@
-# Prompts user for 
+# Prompts user for SD Card path
